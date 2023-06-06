@@ -1,1 +1,1 @@
-### This is a repo for GCP DevOPs Project.
+### This is a repo for GCP DevOPs Project
